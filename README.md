@@ -12,4 +12,4 @@ Crypto- pip install crypto <br/>
 PIL- pip install pillow 
 
 ## License
-This project is under MIT license.
+This project is under MIT license. Check out [here](https://github.com/shi-wal/image-encrypt-decrypt/blob/main/LICENSE.txt)!
